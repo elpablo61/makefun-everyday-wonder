@@ -1,0 +1,1 @@
+{"description":"One sentence on a small moment of wonder in everyday life: the fridge stops humming at 3 a.m., and the silence sounds like the house remembering my name.","engines":{"node":">=22"},"license":"MIT","name":"makefun-everyday-wonder","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
